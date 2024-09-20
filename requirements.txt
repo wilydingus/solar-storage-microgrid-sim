@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+pvlib #photovoltaic system sim
+pybamm # battery  modeling
+
+jupyterlab  # If you prefer Jupyter Lab over classic Jupyter Notebook
+scipy  # Useful for numerical methods which might be needed
+requests  # In case you decide to fetch data from APIs directly
+
+ipywidgets #pybamm tutorial uses it
